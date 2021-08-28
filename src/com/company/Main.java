@@ -8,6 +8,5 @@ public class Main {
         admin.setRol("superuser"); //se envia un dato al rol el cual admin hereda de perfil
         System.out.println(admin.getRol());
 
-
     }
 }
